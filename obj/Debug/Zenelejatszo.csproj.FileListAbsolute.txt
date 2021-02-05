@@ -1,0 +1,15 @@
+C:\Users\HP 255\source\repos\Zenelejatszo\bin\Debug\Zenelejatszo.exe.config
+C:\Users\HP 255\source\repos\Zenelejatszo\bin\Debug\Zenelejatszo.exe
+C:\Users\HP 255\source\repos\Zenelejatszo\bin\Debug\Zenelejatszo.pdb
+C:\Users\HP 255\source\repos\Zenelejatszo\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP 255\source\repos\Zenelejatszo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.csproj.ResolveComReference.cache
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.Properties.Resources.resources
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.csproj.GenerateResource.cache
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.exe
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.pdb
+C:\Users\HP 255\source\repos\Zenelejatszo\obj\Debug\Zenelejatszo.MusicPlayerApp.resources
